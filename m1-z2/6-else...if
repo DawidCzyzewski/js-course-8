@@ -1,4 +1,4 @@
-// else...if
+// else...if pierwszy warunek taki sam jak drugi, więc go nie wywołuje
 let x = 0;
 
 const subscription = "pro2"

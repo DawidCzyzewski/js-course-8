@@ -1,4 +1,6 @@
 // if truthy falsey
+// if (condition) {something to happen if the condition is TRUE}
+
 // const condition = 0; // false-y
 // const condition = 1; // truth-y
 // const condition = -1; // truth-y
@@ -11,6 +13,6 @@
 // const condition = undefined; // false
 // const condition = null // false
 const condition = 1;
-if(!!condition){
-    console.log(!!condition)
+if (!!condition) {
+  console.log(!!condition);
 }
